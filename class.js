@@ -11,7 +11,7 @@ class Gender {
 
 // NEW METHOD
 class Gender {
-    gender = "male";
+    gender = "female";
 
     printGender = () => {
         console.log(this.gender);
